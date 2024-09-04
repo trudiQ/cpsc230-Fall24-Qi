@@ -1,6 +1,6 @@
 # Homework for Lectures 1 & 2
-# NOTE: This file is ONLY for code and comments, 
-#       Write your written report in a separate document
+# NOTE: This file is ONLY for code and comments. 
+#       Write your written report in a separate document and save it as a PDF
 
 '''
 1. Write code to print out: Hello, what is your name?
