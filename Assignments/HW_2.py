@@ -20,8 +20,8 @@ Print out the set.
 
 '''
 3 Without using Python, figure out the answer to this statement.
-    Explain the order of operations IN YOUR YOUR REPORT.
-    You DONOT NEED to rewrite the expression using more paratheses. 
+    Explain the order of operations IN YOUR WRITTEN REPORT.
+    You DO NOT NEED to rewrite the expression using paratheses. 
 
     2 * 4 + 2 ** 3 // 2 + 6 - 7 * 9 + (16 + 4)
 
@@ -36,11 +36,11 @@ YOU DON'T NEED TO WRITE CODE FOR THIS QUESTION.
 4. Using these operators (%,/,//,*), write some code to convert an amount of
 time in minutes (e.g. 257 minuts) into hours and minutes (e.g. 4 hours and 17 minutes).
 
-Hint: Starting from getting input minutes from the user using statement
-    e.g., mins_input = int(input("Please input some minutes: ")). 
-    Your code should then convert mins_input into two variables, X and Y, 
-    reprsenting hours and minutes respectively, 
-    by using operators %, /, //, *.
+Hint: 
+    First, get input minutes from the user using the following statement
+        e.g., mins_input = int(input("Please input some minutes: ")). 
+    Then, your code should convert mins_input into two variables, X and Y, 
+    reprsenting hours and minutes respectively, by using operators %, /, //, *.
 
 Print out the numbers of hours and minutes in the format of "X hours, Y minutes".
 
