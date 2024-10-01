@@ -3,8 +3,7 @@
 
 '''
 1. Write a while loop that repeats as long as user_input >= 1. In each loop iteration, 
-frist divide user_input by 2 and assign the result to a variable called result, 
-then print result.
+frist divide user_input by 2, then print user_input.
 '''
 user_input = int(input("Input a number"))
 # write your code below
