@@ -11,7 +11,7 @@ For example, when involking the function, you should see
 '''
 # write your code below
 # define the funcition
-def simple_greeting(name, age = "20"):
+def simple_greeting(name, age = 20):
     message = "Hello, " + name + ". You are " + str(age) + " years old."
     return message
 
